@@ -1,0 +1,8 @@
+{
+  "name": "PhysioCare AI & Rehabilitation Portal",
+  "description": "Comprehensive physiotherapy portal with specialist directory, interactive anatomical body systems, multi-language & voice assistance, AI rehabilitation partner, and smart patient health reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
